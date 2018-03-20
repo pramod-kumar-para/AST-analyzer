@@ -1,0 +1,22 @@
+{
+  "name": "ast-analyzer",
+  "version": "1.0.0",
+  "description": "Tool to write custom static analysis rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramod-kumar-para/AST-analyzer.git"
+  },
+  "author": "Pramod Para",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramod-kumar-para/AST-analyzer/issues"
+  },
+  "homepage": "https://github.com/pramod-kumar-para/AST-analyzer#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
